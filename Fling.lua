@@ -1,5 +1,5 @@
 --[[
-TOCUH ARM TO FLING
+TOUCH ARM TO FLING
 
 ]]--
 
